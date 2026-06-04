@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 import google.generativeai as genai
-from from google.generativeai import types
+from google.generativeai import types
 
 # 1. إعداد واجهة الموقع الأنيقة للمطور العقاري
 st.set_page_config(page_title="مقتنص الفرص العقارية بالذكاء الاصطناعي", layout="centered")
